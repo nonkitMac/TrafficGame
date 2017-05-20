@@ -2,7 +2,7 @@
 
 # TraficGame
 Trafic Game<br>
-Version 0.2a
+Version 0.3a
 
 Trafic Game is a game written in Microsoft Small Basic programming language.
 
@@ -15,5 +15,6 @@ Trafic Game is a game written in Microsoft Small Basic programming language.
 - BlowMaker.sb - A tool to make blow shape
 
 ## Version History
+- 0.3a 2017-05-20 Added another car and bug fixed #1.
 - 0.2a 2017-05-20 Added a blow shape.
 - 0.1a 2017-05-15 Created as a demo.
