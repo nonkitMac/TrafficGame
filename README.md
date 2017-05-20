@@ -1,8 +1,8 @@
-![icon](img/icon.png)
+﻿![icon](img/icon.png)
 
 # TrafficGame
 Traffic Game<br>
-Version 0.4a
+Version 0.5a
 
 Traffic Game is a game written in Microsoft Small Basic programming language.
 
@@ -10,11 +10,16 @@ Traffic Game is a game written in Microsoft Small Basic programming language.
 - Windows Vista or lator
 - .NET Framework 4.5 or later
 
+## Usage
+- Hit [↑]/[↓] keys to speed car up/down.
+- Hit [←]/[→] keys to move car left/right.
+
 ## Source Programs
 - TrafficGame.sb - Traffic Game
 - BurstMaker.sb - A tool to make burst shape
 
 ## Version History
+- 0.5a 2017-05-20 Supported arrow key input.
 - 0.4a 2017-05-20 Renamed.
 - 0.3a 2017-05-20 Added another car and bug fixed #1.
 - 0.2a 2017-05-20 Added a blow shape.
