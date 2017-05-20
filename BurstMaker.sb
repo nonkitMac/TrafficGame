@@ -1,9 +1,9 @@
-' Blow Maker - Shapes Array Generator
-' Version 0.3
+' Burst Maker - Shapes Array Generator
+' Version 0.31
 ' Copyright © 2017 Nonki Takahashi.  The MIT License.
-' Last update 2017-05-17
+' Last update 2017-05-20
 
-GraphicsWindow.Title = "Blow Maker 0.3"
+GraphicsWindow.Title = "Burst Maker 0.31"
 gw = 598
 gh = 428
 GraphicsWindow.Width = gw
@@ -17,11 +17,11 @@ r2 = 50
 cx = r2
 cy = r2
 color = "Red"
-DrawBlow()
+DrawBurst()
 Shapes_DumpArray()
 
-Sub DrawBlow
-  ' param color - bomb color
+Sub DrawBurst
+  ' param color - burst color
   ' param r1 - inner circle radius
   ' param r2 - outer radius
   ' param n - number of edges
@@ -34,7 +34,7 @@ Sub DrawBlow
   width = r1 * 2
   height = r1 * 2
   Shapes_AddEllipse()
-  ' blows
+  ' burst light
   da = 360 / n
   _da = Math.GetRadians(da)
   angle = 0
