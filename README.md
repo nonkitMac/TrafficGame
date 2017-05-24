@@ -2,7 +2,7 @@
 
 # Traffic Game
 Traffic Game<br>
-Version 0.5a
+Version 0.6b
 
 Traffic Game is a game written in Microsoft Small Basic programming language.
 
@@ -19,6 +19,7 @@ Traffic Game is a game written in Microsoft Small Basic programming language.
 - BurstMaker.sb - A tool to make burst shape
 
 ## Version History
+- 0.6b 2017-05-24 Supported caption, collision and score.
 - 0.5a 2017-05-20 Supported arrow key input.
 - 0.4a 2017-05-20 Renamed.
 - 0.3a 2017-05-20 Added another car and bug fixed #1.
