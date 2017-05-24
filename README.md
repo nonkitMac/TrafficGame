@@ -1,6 +1,6 @@
-﻿![icon](img/icon.png)
+![icon](img/icon.png)
 
-# TrafficGame
+# Traffic Game
 Traffic Game<br>
 Version 0.5a
 
